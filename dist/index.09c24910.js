@@ -4,6 +4,9 @@ const bookmark = document.querySelector(".bookmark");
 const iconBtn = document.querySelectorAll(".accordion__icons");
 const accordionBody = document.querySelectorAll(".accordion__body");
 const modalEl = document.querySelector(".modal");
+window.visualViewport.addEventListener("resize", ()=>{
+    document.body.style.height = `${window.visualViewport.height}px`;
+});
 // answers.addEventListener('click', e => {
 //     const btn = e.target.closest('.radio-input');
 //     if (!btn) return;
