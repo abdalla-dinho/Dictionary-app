@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/scss/main.scss">
+    <link rel="stylesheet" href="src/scss/vendors/fontawesome.scss">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+ 
+ 
+     <link rel="android-chrome-512x512" sizes="180x180" href="andriod-chrome 512x512.png" />
+     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-iconi.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon52x52.png" />
+    <link rel="manifest" href="site.webmanifest" />
+     <title>dictionary</title>
+
+    <script defer src="src/js/script.js"></script>
+    <script type="module" src="src/js/controller.js"></script>
+</head>
+<body>
+   <header class="header">
+     <div class="header-box">
+       <div class="header__logo">
+         <img src="src/images/logo-2.png" alt="" class="header__logo-img">
+
+       </div>
+       <div class="header__input">
+         <form class="input-group">
+            <input class="input-search" type="text" placeholder="search to get started ">
+        
+              <i class="fas fa-search input-search-icon"></i>
+           
+         </form>
+       </div>
+
+       <div class="header__nav">
+         <div class="bookmark">
+          <div>
+            <i class="fas fa-bookmark bookmark-icon"></i>
+          </div>
+           <p class="bookmark__text">Bookmark</p>
+
+            <div class="modal">
+            <div class="bookmark__container">
+              <div class="d-flex bookmark-empty">
+                <i class="fas fa-smile modal-icon"></i>
+                <p>No bookmarks yet, find word and bookmark it </p>
+                <div>
+
+              <!-- <ul class="bookmarks-result">
+                <li>word</li>
+              </ul> -->
+            </div>
+            </div>
+
+          </div>
+          
+       </div>
+     </div>
+   </header>
+
+   <main>
+    <div class="container cols-3 gap">
+      <div class="side-bars side-bars-1">
+        <div class="accordion">
+          <div class="accordion__body">
+            <h2 class="accordion__title">How this works</h2>
+            <div class="accordion__icons">
+             <div class="accordion__icons-down icon accordion__icon">
+              <i class="fas fa-chevron-down accordion__icons-down"></i>
+             </div>
+
+             <div class="accordion__icons-up accordion__icon">
+              <i class="fas fa-chevron-up accordion__icons-up"></i>
+             </div>
+
+             </div>
+
+                 
+             <div class="overlay">
+               <div class="overlay__text">
+               <p> Search for any word, explore its meaning, pronunciation, synonyms, and examples, and build your vocabulary effortlessly. 
+                also there is section for grammar quiz  to test u grammar knowledge 
+               </p>
+        
+           
+                  
+
+
+               </div>
+             </div>
+          </div>
+
+            <div class="accordion__body">
+            <h2 class="accordion__title">Overview</h2>
+            <div class="accordion__icons">
+             <div class="accordion__icons-down icon accordion__icon">
+              <i class="fas fa-chevron-down accordion__icons-down"></i>
+             </div>
+
+             <div class="accordion__icons-up accordion__icon">
+              <i class="fas fa-chevron-up accordion__icons-up"></i>
+             </div>
+             </div>
+
+                 
+             <div class="overlay">
+               <div class="overlay__text">
+               <p> this App is a modern and user-friendly dictionary application designed to provide fast and accurate word definitions and example sentences. Whether you're a student, writer,
+                 or language enthusiast, this app helps you expand your vocabulary effortlessly.
+               </p>
+        
+           
+                  
+
+
+               </div>
+             </div>
+          </div>
+
+            <div class="accordion__body">
+            <h2 class="accordion__title">inspiration</h2>
+  <div class="accordion__icons">
+             <div class="accordion__icons-down icon accordion__icon">
+              <i class="fas fa-chevron-down accordion__icons-down"></i>
+             </div>
+
+             <div class="accordion__icons-up accordion__icon">
+              <i class="fas fa-chevron-up accordion__icons-up"></i>
+             </div>
+             </div>
+
+                 
+             <div class="overlay">
+               <div class="overlay__text">
+               <p> This app came to life after one month of research and it was inspired by Dictionary app 
+                Gaints in the market like mariam webster Google dictionary and Dictionary.com
+               </p>
+        
+           
+                  
+
+
+               </div>
+             </div>
+
+             </div>
+            <div class="accordion__body">
+            <h2 class="accordion__title">How do I use</h2>
+                <div class="accordion__icons">
+             <div class="accordion__icons-down icon accordion__icon">
+              <i class="fas fa-chevron-down accordion__icons-down"></i>
+             </div>
+
+             <div class="accordion__icons-up accordion__icon">
+              <i class="fas fa-chevron-up accordion__icons-up"></i>
+             </div>
+             </div>
+
+                 
+             <div class="overlay">
+               <div class="overlay__text">
+               <p> Enter a word in the search bar and press enter.
+                The app fetches the definition, pronunciation, and examples from a reliable dictionary API.
+               </p>
+        
+           
+                  
+
+
+               </div>
+             </div>
+          </div>
+          <!-- <p class="accordion__body"></p>
+          <p class="accordion__body"></p> -->
+        </div>
+      </div>
+      <div class="side-bars side-bars-2">
+
+         <div class="result">
+          
+       <!-- <h3 class="result__title">word of the day</h3>
+           <p class="result__date">Feb / 20/ 2025</p>
+           <div class="result__word">
+              <h4 class="result__word-text">Love</h4>
+              <div class="result__word-icon">
+                <i class="fas fa-volume-high "></i>
+              </div>
+           </div>  
+
+  <p class="text">Sign up to get word of the in you box</p>
+
+          <div class="result__input-group">
+             <input class="result__input-group-input--1" type="text" placeholder="Enter U Email">    
+             <button class="result__input-group-btn--1">Sign Up</button>
+           </div>    -->
+<!-- 
+      <div class="result__answer">
+         <h4 class="result__word-answer">Love</h4>
+         <div class="result__word-icon fw-lg">
+         <i class="fas fa-volume-high "></i>
+      </div>      
+    </div>    -->
+
+    <!-- <div class="result__phonotic">
+        <p class="result__phonotic-text">[ luhv ]</p>
+        <p class="result__phonotic-standard">Phonetic (Standard)</p>
+    </div>    -->
+
+
+    <!-- <div class="result__sentence">
+      <h2 class="result__sentence-word">noun</h2>
+      <p class="result__sentence-text"><span>1: </span>  "Hello!" or an equivalent greeting.</p>
+      <p class="result__sentence-text"><span>2: </span>  "Hello!" or an equivalent greeting.</p>
+      <p class="result__sentence-text"><span>3: </span>  "Hello!" or an equivalent greeting.</p>
+    </div> -->
+    
+    
+  </div>
+  <!-- end of result -->
+
+        </div>
+      
+      <div class="side-bars side-bars-3">
+        <div class="quiz">
+           <h2 class="quiz__header">Grammer Quiz</h2>
+           <p class="quiz__question">Which of the following  is not in the middle voice?</p>
+          
+           <div class="quiz__answers">
+             <div class="quiz__container">
+               <input type="radio" class="radio-input" id="radio-input">
+               <label for="radio-input"> a:“The child exhausted her by playing too many games.”</label>
+              </div>
+
+         <div class="quiz__container">
+          <input type="radio" class="radio-input">
+          <p> b) “The man saw himself in the mirror.</p>
+        </div>
+
+         <div class="quiz__container">
+           <input type="radio" class="radio-input">
+           <p> c) “Joanna entertained herself by whistling.”.</p>
+          </div>
+           
+            <div class="quiz__container">
+              <input type="radio" class="radio-input">
+              <p> d) “The employees dedicated themselves to their work.”</p>
+            </div>
+
+
+             
+            </div>
+            <button class="btn" >Submit</button>    
+        </div>
+      </div>
+
+
+
+     
+    </div>
+
+
+
+   <footer class="footer"> 
+    &copy; 2025 Abdullahi Elmi. All rights reserved.  
+    Designed and built with ❤️ by Abdullahi Elmi.
+  </footer>
+
+  <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

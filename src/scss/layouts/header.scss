@@ -1,0 +1,81 @@
+.header {
+
+    @include respond(phone) {
+         padding: 1rem 0;
+    }
+
+    &-box {
+        display: grid;
+        grid-template-columns: 1fr 2fr 0.5fr;
+        align-items: center;
+        justify-content: space-around;
+       
+
+       @include respond(phone) {
+        grid-template-columns: 0.5fr 5fr 0.4fr;
+     
+       }
+    }
+
+    &__logo-img {
+        
+        width: 15rem;
+
+
+        @include respond (tab-port) {
+            width: 8rem;
+        }
+    }
+
+    &__nav {
+        display: flex;
+        gap: 3rem;
+        // margin-top: 4rem;
+
+    }
+
+  
+}
+
+
+.bookmark {
+    display: flex;
+    padding: 1.4rem;
+    align-items: center;
+    gap: 1rem;
+
+
+
+    
+            &:hover {
+                background-color:$color-grey-light ;
+                color: $color-grey-dark-1;
+
+            }
+  
+   &-icon {
+       font-size: 1.7rem;
+        width: 100%;
+        // color: rgba(143, 14, 14, 0);
+        color: rgb(71, 9, 176);
+        // height: 6rem;
+
+        @include respond(tab-port) {
+            font-size: 1.4rem;
+            
+        }
+
+
+        }
+
+        &__text {
+            font-size: 1.6rem;
+        }
+
+        &-extra {
+            font-size: 5.2rem !important;
+            color: #fe8080;
+            text-align: end;
+        }
+   } 
+

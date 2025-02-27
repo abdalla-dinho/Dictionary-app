@@ -1,0 +1,29 @@
+.accordion {
+    padding: 4rem 2rem;
+    
+   
+    &__body {
+        display: grid;
+        grid-template-columns: 4fr 0.1fr;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        border: 1px solid $color-grey-light;
+        padding: 1rem ;
+        border-radius: 10px;
+        margin-bottom: 3rem;
+        transition: all 0.3s;
+      
+        
+    }
+
+    &__icons {
+
+        &-up {
+            display: none;
+        }
+    }
+
+   
+}
+

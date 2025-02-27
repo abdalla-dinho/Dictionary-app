@@ -1,0 +1,16 @@
+.modal {
+    padding: 6rem 8rem;
+    background-color:rgba($color-white,1);
+    box-shadow: rgba(0,0,0,0.16) 0px 2px 4px;
+    position: absolute;
+    right: 3rem;
+    top: 8rem;
+    z-index: 2;
+     display: none;
+    font-size: 1.3rem;
+
+    &-icon {
+        color: rgb(241, 138, 138);
+    }
+}
+
