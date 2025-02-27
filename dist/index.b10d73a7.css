@@ -8,12 +8,18 @@ html {
   padding: 0;
 }
 
+body, html {
+  overflow-x: hidden;
+}
+
 body {
   color: #333;
+  height: 100vh;
   font-family: Atkinson Hyperlegible Mono, sans-serif;
 }
 
 .container {
+  width: 100%;
   max-width: 110rem;
   margin: 3.2rem auto;
 }

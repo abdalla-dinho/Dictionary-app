@@ -1,5 +1,6 @@
 html {
     font-size:62.55%;
+
 }
 
 * {
@@ -8,12 +9,19 @@ html {
     padding: 0;
 }
 
+body,html {
+    overflow-x: hidden;
+}
 
 body {
     color: $color-grey-dark;
     font-family: $primary-font;
-    overflow: hidden;
+    height: 100vh;
+
     
 }
 
+.container {
+    width: 100%;
+}
 
