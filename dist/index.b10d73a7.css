@@ -122,6 +122,7 @@ body {
   align-items: center;
   width: 60%;
   padding: .6rem 1rem .6rem 2rem;
+  font-size: 16px;
   display: flex;
 }
 
@@ -141,18 +142,12 @@ body {
   outline: none;
   width: 95%;
   height: 100%;
+  font-size: 16px;
 }
 
 .input-search::placeholder {
   color: #454141;
   font-family: Atkinson Hyperlegible Mono, sans-serif;
-  font-size: 1.6rem;
-}
-
-@media only screen and (width <= 56.25em) {
-  .input-search::placeholder {
-    font-size: 1.6rem;
-  }
 }
 
 .input-search-icon {
@@ -455,7 +450,9 @@ body {
   }
 
   .header__input {
-    grid-area: 2 / 2 / auto / 3;
+    grid-area: 2 / 1 / auto / -1;
+    margin-left: 7rem;
+    margin-right: 7rem;
   }
 }
 
@@ -465,7 +462,7 @@ body {
 
 @media only screen and (width <= 56.25em) {
   .header__logo-img {
-    width: 8rem;
+    width: 10rem;
   }
 }
 

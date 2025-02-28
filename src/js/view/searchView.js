@@ -12,33 +12,36 @@ import View from "./view.js";
    }
 
    addHandler(handler) {
-     this.__parentElement.addEventListener('submit', e => {
+     this.__parentElement.addEventListener("submit", (e) => {
        e.preventDefault();
-      handler()
-    })
+       const input = this.__parentElement.querySelector(".input-search");
+
+       handler();
+       this.__blurInput(input);
+     });
    }
 
    addHandlerMobile(handler) {
-     
-     this.__parentElement.addEventListener('click', e => {
-       const submitBtn = e.target.closest(".input-search-icon" );
+     this.__parentElement.addEventListener("click", (e) => {
+       const submitBtn = e.target.closest(".input-search-icon");
        if (!submitBtn) return;
-       e.preventDefault()
+       e.preventDefault();
 
-       const inputValue =
-         this.__parentElement.querySelector(".input-search").value;
-       
-       if (inputValue === "") return
+       const inputValue = this.__parentElement.querySelector(".input-search");
+
+       if (inputValue.value === "") return;
 
        handler();
-
-
-       
-     })
+       this.__blurInput(inputValue);
+     });
    }
 
    clearInput() {
      this.__parentElement.querySelector(".input-search").value = "";
+   }
+
+   __blurInput(input) {
+     input.blur();
    }
  }
 

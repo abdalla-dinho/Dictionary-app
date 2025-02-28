@@ -1,4 +1,4 @@
-6563
+6568
 74C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\src\misc.cpp133851141098164928 0
 89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\transformer-posthtml\src133851140551523391 1
 111C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133851140977404406 0
@@ -40,7 +40,7 @@
 73C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\base\typography.scss133842473826510512 0
 102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\permissions-api.js133851141993937024 0
 105C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\_\_object_spread_props\package.json133851141763256112 0
-48C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist133851916592014501 1
+48C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist133851975864801235 1
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\city.svg133842471142476294 0
 83C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\utility-types\package.json133851140576559222 0
 104C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\src\_class_private_method_init.mjs133851141895564912 0
@@ -50,7 +50,6 @@
 92C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\webgl.js133851142022065837 0
 101C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\workers\lib\process\ProcessWorker.js133851140823566319 0
 65C:\Users\LENOVO\OneDrive\Desktop\disctonary\apple-touch-iconi.png133851125119169011 0
-61C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\.bin133851142192250255 1
 102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\async-functions.js133851140856767697 0
 70C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\dotenv-expand133851140607337049 1
 112C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\genderless.svg133842471218339638 0
@@ -62,7 +61,7 @@
 75C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\fs\LICENSE133851140494887777 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_call_super.js133851141158800814 0
 87C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\esm\escape.js.map133851140906545376 0
-54C:\Users\LENOVO\OneDrive\Desktop\disctonary\index.html133851917068562027 0
+54C:\Users\LENOVO\OneDrive\Desktop\disctonary\index.html133851969865035103 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\MW.js133851141983068248 0
 60C:\Users\LENOVO\OneDrive\Desktop\disctonary\favicon52x52.png133851132009811485 0
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\pad-start-end.js133851141992647177 0
@@ -109,10 +108,10 @@
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133851140544894603 0
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-dress.svg133842471300834577 0
 83C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\core\src\Parcel.js133851141149210186 0
-56C:\Users\LENOVO\OneDrive\Desktop\disctonary\package.json133851916997006861 0
+56C:\Users\LENOVO\OneDrive\Desktop\disctonary\package.json133851970218194696 0
 115C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\regular\floppy-disk.svg133842471214602789 0
 108C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\constraint-validation.js133851141168785001 0
-47C:\Users\LENOVO\OneDrive\Desktop\disctonary\src133851917209774224 1
+47C:\Users\LENOVO\OneDrive\Desktop\disctonary\src133851970893571615 1
 75C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\sass\sass.node.mjs133842470902382366 0
 105C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\esm\generated\decode-data-html.d.ts133851140941506029 0
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\react-error-overlay\lib133851140506730026 1
@@ -135,6 +134,7 @@
 108C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\expand.svg133842471195160021 0
 71C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\to-regex-range133842470831453674 1
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\SE.js133851142002945362 0
+51C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\css133851970894136802 1
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\server-timing.js133851142003234140 0
 69C:\Users\LENOVO\OneDrive\Desktop\disctonary\webfonts\fa-solid-900.ttf133842471401611282 0
 89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\immutable\dist\immutable.js.flow133842470827248028 0
@@ -156,7 +156,7 @@
 81C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\type\null.js133851140783048668 0
 94C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\wasm-gc.js133851142019534569 0
 126C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\table-tennis-paddle-ball.svg133842471346349024 0
-74C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\components\input.scss133851916579691905 0
+74C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\components\input.scss133851971144680757 0
 113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-code.svg133842471207587085 0
 110C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\rust\parcel-node-bindings.win32-x64-msvc.node133851142187249237 0
 109C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\python.svg133842471308730705 0
@@ -245,7 +245,6 @@
 71C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\events133851140666770183 1
 85C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\workers\src\types.js133851140863764705 0
 92C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\type-fest\source\promise-value.d.ts133851140812901054 0
-68C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\bin133851140671265711 1
 73C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\abstract\mixins.scss133845966687595476 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\VC.js133851142018050976 0
 94C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\cjs\_super_prop_base.cjs133851141014590639 0
@@ -260,14 +259,14 @@
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\htmlnano\lib\modules\collapseWhitespace.cjs133851140564257183 0
 75C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\images\apple-touch-icon.png133851115603401884 0
 115C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133851141128028558 0
-107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-at-counter-style.js133851141183606948 0
-96C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json-parse-even-better-errors\README.md133851140547971933 0
-89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\htmlnano\lib\presets\ampSafe.cjs133851140512713705 0
-103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\dom-serializer\README.md133851140661112523 0
 79C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\safe-buffer\index.d.ts133851140554248062 0
 83C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\graph\package.json133851140782146486 0
 71C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\logger133851140554571634 1
 107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133851140551281585 0
+107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-at-counter-style.js133851141183606948 0
+96C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json-parse-even-better-errors\README.md133851140547971933 0
+89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\htmlnano\lib\presets\ampSafe.cjs133851140512713705 0
+103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\dom-serializer\README.md133851140661112523 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\semver\ranges\max-satisfying.js133851140792404599 0
 72C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\pages\sidebars.scss133846131611604987 0
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\semver\classes\index.js133851140727668313 0
@@ -283,7 +282,7 @@
 70C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\react-refresh133851140617753339 1
 77C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\vendors\fontawesome.scss133843602350565032 0
 85C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\type-fest\source\except.d.ts133851140678981305 0
-72C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\layouts\header.scss133851911187734596 0
+72C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\layouts\header.scss133851975965521601 0
 75C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\scss\components\button.scss133845900120230015 0
 84C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\bundler-default\src133851140533351883 1
 85C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\weak-lru-cache\tests\test.js133851140568507923 0
@@ -314,14 +313,14 @@
 83C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lightningcss\node\index.js133851140641664558 0
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\semver\functions\neq.js133851140815766902 0
 89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\cosmiconfig\dist\ExplorerSync.js133851140576559222 0
-64C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\controller.js133850271883621254 0
+64C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\controller.js133851957474337817 0
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\semver\functions\cmp.js133851140536450214 0
-59C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\modal.js133850238653873536 0
+59C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\modal.js133851956890409646 0
 85C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml-render\changelog.md133851140541847498 0
 109C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\sort-up.svg133842471331550823 0
 102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\abortcontroller.js133851140529141247 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\IQ.js133851141953352974 0
-60C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\script.js133851897326337305 0
+60C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\script.js133851962079141211 0
 115C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\cloudversify.svg133842471159767999 0
 103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\htmlparser2\lib\index.js133851140524596191 0
 118C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\regular\calendar-check.svg133842471033746859 0
@@ -347,7 +346,7 @@
 73C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\has-flag\license133851140531731329 0
 89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\postcss-value-parser\lib\walk.js133851140568122074 0
 90C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\htmlnano\lib\modules\minifyJs.mjs133851141080038449 0
-69C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\view\searchView.js133850274729181422 0
+69C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\js\view\searchView.js133851967770316700 0
 105C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133851141941672550 0
 75C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\readme.md133851140551281585 0
 78C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json5\lib\register.js133851140589024176 0
@@ -356,6 +355,19 @@
 115C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133851140636633281 1
 127C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts.map133851140699695941 0
 78C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\htmlnano\CHANGELOG.md133851140994383086 0
+115C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-steam.svg133842471338286412 0
+88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TO.js133851142014365632 0
+60C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\css\styl.css133851975967104287 0
+110C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\discord.svg133842471189113191 0
+69C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome133842470772282889 1
+113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\folder-plus.svg133842471215457655 0
+99C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\do-not-track.js133851141742950600 0
+110C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\democrat.svg133842471186997273 0
+120C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.js133851140563796962 0
+120C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\house-medical-flag.svg133842471258384647 0
+96C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\encode-html.d.ts133851140966804046 0
+64C:\Users\LENOVO\OneDrive\Desktop\disctonary\src\css\styl.css.map133851975967044898 0
+61C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\.bin133851142192250255 1
 108C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\trowel.svg133842471358586859 0
 77C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json5\lib\parse.d.ts133851140731638704 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\types-internal\src\DependencySpecifier.js133851140541897451 0
@@ -364,8 +376,6 @@
 105C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\ban.svg133842471017749659 0
 87C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\cjs\_to_array.cjs133851141038947901 0
 75C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\.package-lock.json133851149700967803 0
-110C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\discord.svg133842471189113191 0
-69C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome133842470772282889 1
 63C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@lezer133851140296686125 1
 82C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\readdirp\esm\package.json133842470834417079 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TH.js133851142012865893 0
@@ -1437,7 +1447,7 @@
 71C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\sass\README.md133842470901592579 0
 102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\async-clipboard.js133851140853123179 0
 113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133851141160618476 0
-66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.e37f48ea.js133851915189441531 0
+66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.e37f48ea.js133851974523692484 0
 74C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\sass\sass.dart.js133842470899827787 0
 78C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\sass\sass.default.cjs133842470829178464 0
 92C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lightningcss-win32-x64-msvc\LICENSE133851140493501791 0
@@ -1523,7 +1533,7 @@
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\core\lib\requests\PackageRequest.js133851141119495556 0
 77C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\msgpackr-extract\bin133851140536241679 1
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\sass\types\legacy\importer.d.ts133842470910651525 0
-84C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\andriod-chrome 192x192.b73090fc.png133851915189421572 0
+84C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\andriod-chrome 192x192.b73090fc.png133851974523572358 0
 112C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\dom-serializer\lib\esm\index.d.ts133851140690668778 0
 84C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\_\_ts_decorate133851141806889955 1
 109C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\deezer.svg133842471186717228 0
@@ -1577,9 +1587,6 @@
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\building-ngo.svg133842471031788819 0
 87C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\detect-libc\bin\detect-libc.js133842470838166051 0
 79C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\react-refresh\babel.js133851140506650011 0
-88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\NU.js133851141986013054 0
-76C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\dotenv\package.json133851140564197217 0
-113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts133851140772715228 0
 78C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\react-refresh\LICENSE133851140493621751 0
 92C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\alt-eu.js133851140739875570 0
 95C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\webauthn.js133851142021901209 0
@@ -1674,7 +1681,7 @@
 109C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\strava.svg133842471343397876 0
 103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\2.svg133842470965867389 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\LV.js133851141973346502 0
-59C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.html133851915196882406 0
+59C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.html133851974531961932 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\domutils\lib\stringify.d.ts133851140789864192 0
 104C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\less\regular.less133842470954066246 0
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\regular\bell-slash.svg133842471020230075 0
@@ -1694,6 +1701,9 @@
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\watcher\src\unix\fts.cc133842470847486129 0
 93C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\domhandler\lib133851140617673331 1
 101C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\decode.js133851140576253472 0
+88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\NU.js133851141986013054 0
+76C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\dotenv\package.json133851140564197217 0
+113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts133851140772715228 0
 117C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\decode_codepoint.d.ts.map133851140684972398 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TW.js133851142015645256 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\dependencies\lz4\lib\lz4.c133851140839821331 0
@@ -1736,10 +1746,6 @@
 94C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\ac3-ec3.js133851140545164930 0
 122C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133851140784343237 0
 126C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133851140709600847 0
-113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\folder-plus.svg133842471215457655 0
-99C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\do-not-track.js133851141742950600 0
-110C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\democrat.svg133842471186997273 0
-120C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.js133851140563796962 0
 95C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\domutils\LICENSE133851140495973745 0
 77C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\env-paths\index.d.ts133851140548061901 0
 116C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\clipboard-list.svg133842471143419752 0
@@ -1812,10 +1818,10 @@
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\type\map.js133851140767654727 0
 103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\domhandler\lib\node.d.ts133851140626076455 0
 97C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\dom-serializer\lib133851140701216219 1
+99C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json-parse-even-better-errors\package.json133851140506370051 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\posthtml\node_modules\dom-serializer\package.json133851140597325455 0
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\web-animation.js133851142021027806 0
 117C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133851141454963779 0
-99C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json-parse-even-better-errors\package.json133851140506370051 0
 97C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\word-break.js133851142024830335 0
 113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\heart-pulse.svg133842471244373794 0
 84C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\immutable\dist\immutable.js133842470846714663 0
@@ -2233,8 +2239,6 @@
 72C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\chalk\readme.md133851140568537871 0
 86C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\src\_type_of.mjs133851141950246851 0
 105C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133851140772895180 0
-106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-media-scripting.js133851141381588906 0
-102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\intrinsic-width.js133851141953234240 0
 116C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133851140862908853 0
 76C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\lmdb\dist\index.cjs133851141054917909 0
 73C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\esm133851140977872335 1
@@ -2368,6 +2372,7 @@
 76C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json5\lib\util.d.ts133851140767634740 0
 97C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\json-parse-even-better-errors\LICENSE.md133851140531806596 0
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md133851140971328655 0
+68C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\bin133851140671265711 1
 69C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\dist133851140843485796 1
 73C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\index.js133851140655436979 0
 78C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\schema.js133851140797458070 0
@@ -2412,8 +2417,8 @@
 82C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\type\merge.js133851140778829740 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-overflow-anchor.js133851141408570755 0
 82C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\type\pairs.js133851140792404599 0
-107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-media-resolution.js133851141379599415 0
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\type\seq.js133851140804703445 0
+107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-media-resolution.js133851141379599415 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133851140992903370 0
 89C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\electron-to-chromium\versions.js133851140573651794 0
 80C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\js-yaml\lib\type\set.js133851140810533560 0
@@ -2776,8 +2781,6 @@
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\decode-data-xml.d.ts133851140951704084 0
 104C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133851140821968706 0
 98C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\decode-data-xml.js133851140613424028 0
-120C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\house-medical-flag.svg133842471258384647 0
-96C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\encode-html.d.ts133851140966804046 0
 94C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\encode-html.js133851140669266620 0
 98C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\entities\lib\generated\encode-html.js.map133851140865550494 0
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\tabindex-attr.js133851142011031026 0
@@ -2990,7 +2993,7 @@
 90C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\dom-serializer\lib\esm\index.d.ts133851140687811761 0
 86C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\transformer-babel\lib133851140732575603 1
 94C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\dom-serializer\lib\esm\index.d.ts.map133851140636495068 0
-70C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.09c24910.js.map133851915192605918 0
+70C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.09c24910.js.map133851974526984413 0
 108C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\school.svg133842471322674119 0
 72C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\detect-libc\lib133842470839672106 1
 87C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\detect-libc\lib\detect-libc.js133842470839782169 0
@@ -3333,8 +3336,6 @@
 92C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\audio.js133851140867657741 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TM.js133851142013743317 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TN.js133851142013908578 0
-115C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-steam.svg133842471338286412 0
-88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TO.js133851142014365632 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\regions\TZ.js133851142016031212 0
 103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_object_without_properties.js133851141288884170 0
 109C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133851141187141577 0
@@ -3368,6 +3369,7 @@
 113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\box-archive.svg133842471027969035 0
 116C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133851140938617579 0
 102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\background-sync.js133851140941576048 0
+67C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.d163ccbb.css133851917438793204 0
 119C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\truck-arrow-right.svg133842471358586859 0
 100C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\text-overflow.js133851142012102181 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133851140760437682 0
@@ -3429,6 +3431,8 @@
 101C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-line-clamp.js133851141351942377 0
 104C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-logical-props.js133851141352743590 0
 96C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-masks.js133851141359594620 0
+106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-media-scripting.js133851141381588906 0
+102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\intrinsic-width.js133851141953234240 0
 103C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\css-mediaqueries.js133851141383123494 0
 98C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\caniuse-lite\data\features\sql-storage.js133851142007079970 0
 113C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133851140510801756 0
@@ -4319,8 +4323,8 @@
 102C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133851141263855887 0
 105C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133851141265446087 0
 101C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_iterable_to_array_limit.js133851141274669944 0
-95C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_non_iterable_rest.js133851141279846986 0
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133851140564562713 0
+95C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_non_iterable_rest.js133851141279846986 0
 87C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\core\src\Validation.js133851141302019710 0
 107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133851141269224396 0
 93C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@swc\helpers\esm\_new_arrow_check.js133851141279662931 0
@@ -4525,7 +4529,7 @@
 112C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-nurse.svg133842471364458787 0
 108C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\dragon.svg133842471190505165 0
 85C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\workers\lib\child.js133851140570851612 0
-66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.699cc582.js133851151802914511 0
+66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.699cc582.js133851917438808801 0
 91C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\workers\lib\core-worker.js133851140666930538 0
 86C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@parcel\workers\lib\Handle.js133851140733427045 0
 109C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\bicycle.svg133842471020590845 0
@@ -6049,7 +6053,7 @@
 125C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\table-cells-column-lock.svg133842471345662993 0
 119C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\table-cells-large.svg133842471345732984 0
 122C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\table-cells-row-lock.svg133842471345833044 0
-67C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.d0f51e2a.css133851915189712527 0
+67C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.d0f51e2a.css133851974524124803 0
 124C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\table-cells-row-unlock.svg133842471345968881 0
 107C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\table.svg133842471346431954 0
 108C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\solid\tablet.svg133842471346543548 0
@@ -6398,7 +6402,7 @@
 119C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\phoenix-squadron.svg133842471303670132 0
 106C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\php.svg133842471304146970 0
 116C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\pied-piper-pp.svg133842471304317278 0
-66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.09c24910.js133851915189451601 0
+66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.09c24910.js133851974523572358 0
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\pinterest-p.svg133842471304568357 0
 112C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\pinterest.svg133842471304633198 0
 114C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\@fortawesome\fontawesome-free\svgs\brands\playstation.svg133842471306356566 0
@@ -6545,20 +6549,21 @@
 84C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\.bin\update-browserslist-db133851142192220217 0
 88C:\Users\LENOVO\OneDrive\Desktop\disctonary\node_modules\.bin\update-browserslist-db.ps1133851142192220217 0
 84C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\andriod-chrome 192x192.5c3ee7d0.png133851151770188126 0
-84C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\andriod-chrome 512x512.b6137f5c.png133851915189421572 0
+84C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\andriod-chrome 512x512.b6137f5c.png133851974523457133 0
 84C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\andriod-chrome 512x512.f47cf847.png133851151770771096 0
-79C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\apple-touch-iconi.85dba803.png133851915193921754 0
-74C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\fa-solid-900.2ff9f162.ttf133851915191760061 0
-76C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\fa-solid-900.77620caf.woff2133851915190092203 0
-74C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\favicon52x52.2abe843e.png133851915189421572 0
+79C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\apple-touch-iconi.85dba803.png133851974523457133 0
+74C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\fa-solid-900.2ff9f162.ttf133851974524495590 0
+76C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\fa-solid-900.77620caf.woff2133851974524124803 0
+74C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\favicon52x52.2abe843e.png133851974523572358 0
 74C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\favicon52x52.942ecd93.png133851151770188126 0
 66C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.607a5abf.js133851163308118051 0
-70C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.699cc582.js.map133851151809545610 0
+70C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.699cc582.js.map133851917439584250 0
 71C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.845d4a8e.css.map133851151805165810 0
 67C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.b05e792d.css133851163308118051 0
-67C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.b10d73a7.css133851916591848620 0
-71C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.b10d73a7.css.map133851916591929012 0
-71C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.d0f51e2a.css.map133851915192765940 0
-70C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.e37f48ea.js.map133851915192616008 0
-68C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\logo-2.ce7f1097.png133851915191930024 0
-65C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\site.webmanifest133851915193471755 0
+67C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.b10d73a7.css133851975864446538 0
+71C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.b10d73a7.css.map133851975864801235 0
+71C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.d0f51e2a.css.map133851974526984413 0
+71C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.d163ccbb.css.map133851917439595432 0
+70C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\index.e37f48ea.js.map133851974526984413 0
+68C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\logo-2.ce7f1097.png133851974524124803 0
+65C:\Users\LENOVO\OneDrive\Desktop\disctonary\dist\site.webmanifest133851974523457133 0

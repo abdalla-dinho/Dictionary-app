@@ -22,12 +22,17 @@ export function speakWord(word) {
 };
 
 
+
 export const loadSearch = async function (query) {
     try {
         const resp = await fetch(
           `https://api.dictionaryapi.dev/api/v2/entries/en/${query}`
         );
       const data = await resp.json();
+
+    
+
+  
       
 
  
@@ -45,7 +50,7 @@ export const loadSearch = async function (query) {
       else DictionaryData.bookmarked = false;
       state.result = DictionaryData; 
 
-      console.log(state.result)
+   
       
       
 
@@ -95,7 +100,6 @@ export const addBookmark = async function (data) {
 
     if (state.bookmarks.some(book => book.word === data.word)) data.bookmarked = true;
 
-    console.log(data.word)
    
  
   } catch (err) {
@@ -106,7 +110,7 @@ export const addBookmark = async function (data) {
 export const deleteBookmark = function (id) {
   // Delete bookmark
   const index = state.bookmarks.findIndex(el => el.word);
-  console.log(index)
+
   state.bookmarks.splice(index, 1);
 
   if (id === state.result) state.result.bookmarked = false;

@@ -12,6 +12,7 @@ import WordView from "./view/wordView.js";
 
 
 
+
 const SeachController = async function () {
     resultView.renderSpinner();
     try {
@@ -20,7 +21,7 @@ const SeachController = async function () {
         if (!query) return;
 
         await modal.loadSearch(query);
-         console.log(query)
+   
     
         resultView.render(modal.state.result);
 
@@ -75,14 +76,14 @@ const quizController = function (index) {
 }
 
 
+
 const bookmarkController = async function () {
     try {
 
         if (!modal.state.result.bookmarked) modal.addBookmark(modal.state.result);
         else modal.deleteBookmark(modal.state.result);
 
-        console.log(modal.state.result);
-        console.log(modal.state.bookmarks)
+    
      
        
         if (modal.state.bookmarks.length > 0) {

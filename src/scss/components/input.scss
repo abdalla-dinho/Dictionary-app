@@ -7,6 +7,7 @@
      width: 60%;
      padding: 0.6rem 1rem 0.6rem 2rem ;
      border-radius: 10000px;
+     font-size: 16px;
 
      @include respond(tab-port) {
         width: 100%;
@@ -24,16 +25,14 @@
         height: 100%;
         border: none;
         outline: none;
+        font-size: 16px;
         
 
         &::placeholder {
             font-family: $primary-font;
             color: $color-grey-dark-1;
-            font-size: 1.6rem;
 
-            @include respond(tab-port) {
-                font-size: 1.6rem;
-            }
+          
         }
 
         }

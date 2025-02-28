@@ -4,6 +4,18 @@ const bookmark = document.querySelector(".bookmark");
 const iconBtn = document.querySelectorAll(".accordion__icons");
 const accordionBody = document.querySelectorAll(".accordion__body");
 const modalEl = document.querySelector(".modal");
+const inputs = document.querySelectorAll('input');
+document.addEventListener("DOMContentLoaded", function() {
+    const inputs = document.querySelectorAll('input[type="text"], input[type="search"]');
+    inputs.forEach((input)=>{
+        input.addEventListener("focus", function() {
+            document.querySelector('meta[name="viewport"]').setAttribute("content", "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0");
+        });
+        input.addEventListener("blur", function() {
+            document.querySelector('meta[name="viewport"]').setAttribute("content", "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1");
+        });
+    });
+});
 //     const btn = e.target.closest('.radio-input');
 //     if (!btn) return;
 //     radioInput.forEach(inp => {

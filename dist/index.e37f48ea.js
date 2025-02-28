@@ -614,7 +614,6 @@ const SeachController = async function() {
         const query = (0, _searchViewJsDefault.default).getQuery();
         if (!query) return;
         await _modalJs.loadSearch(query);
-        console.log(query);
         (0, _resultViewJsDefault.default).render(_modalJs.state.result);
     // console.log(query)
     } catch (err) {
@@ -644,8 +643,6 @@ const bookmarkController = async function() {
     try {
         if (!_modalJs.state.result.bookmarked) _modalJs.addBookmark(_modalJs.state.result);
         else _modalJs.deleteBookmark(_modalJs.state.result);
-        console.log(_modalJs.state.result);
-        console.log(_modalJs.state.bookmarks);
         if (_modalJs.state.bookmarks.length > 0) (0, _bookmarkViewJsDefault.default).render(_modalJs.state.bookmarks);
         else (0, _bookmarkViewJsDefault.default).renderMessage();
         (0, _resultViewJsDefault.default).render(_modalJs.state.result);
@@ -707,7 +704,6 @@ const loadSearch = async function(query) {
         if (state.bookmarks.some((bookmark)=>bookmark.id === query)) DictionaryData.bookmarked = true;
         else DictionaryData.bookmarked = false;
         state.result = DictionaryData;
-        console.log(state.result);
     } catch (err) {
         throw err;
     }
@@ -731,7 +727,6 @@ const addBookmark = async function(data) {
     try {
         state.bookmarks.push(data);
         if (state.bookmarks.some((book)=>book.word === data.word)) data.bookmarked = true;
-        console.log(data.word);
     } catch (err) {
         console.error(err);
     }
@@ -739,7 +734,6 @@ const addBookmark = async function(data) {
 const deleteBookmark = function(id) {
     // Delete bookmark
     const index = state.bookmarks.findIndex((el)=>el.word);
-    console.log(index);
     state.bookmarks.splice(index, 1);
     if (id === state.result) state.result.bookmarked = false;
 }; // export const deleteBookmark = function (id) {
@@ -1315,23 +1309,29 @@ class SearchView extends (0, _viewJsDefault.default) {
         return query;
     }
     addHandler(handler) {
-        this.__parentElement.addEventListener('submit', (e)=>{
+        this.__parentElement.addEventListener("submit", (e)=>{
             e.preventDefault();
+            const input = this.__parentElement.querySelector(".input-search");
             handler();
+            this.__blurInput(input);
         });
     }
     addHandlerMobile(handler) {
-        this.__parentElement.addEventListener('click', (e)=>{
+        this.__parentElement.addEventListener("click", (e)=>{
             const submitBtn = e.target.closest(".input-search-icon");
             if (!submitBtn) return;
             e.preventDefault();
-            const inputValue = this.__parentElement.querySelector(".input-search").value;
-            if (inputValue === "") return;
+            const inputValue = this.__parentElement.querySelector(".input-search");
+            if (inputValue.value === "") return;
             handler();
+            this.__blurInput(inputValue);
         });
     }
     clearInput() {
         this.__parentElement.querySelector(".input-search").value = "";
+    }
+    __blurInput(input) {
+        input.blur();
     }
 }
 exports.default = new SearchView();
