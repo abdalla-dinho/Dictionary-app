@@ -128,7 +128,7 @@ body {
 @media only screen and (width <= 56.25em) {
   .input-group {
     width: 100%;
-    padding: .3rem .4rem .3rem 2rem;
+    padding: .6rem 1rem .6rem 2rem;
   }
 }
 
@@ -146,12 +146,12 @@ body {
 .input-search::placeholder {
   color: #454141;
   font-family: Atkinson Hyperlegible Mono, sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 
 @media only screen and (width <= 56.25em) {
   .input-search::placeholder {
-    font-size: 1.1rem;
+    font-size: 1.6rem;
   }
 }
 
@@ -453,6 +453,10 @@ body {
   .header-box {
     grid-template-columns: .5fr 5fr .4fr;
   }
+
+  .header__input {
+    grid-area: 2 / 2 / auto / 3;
+  }
 }
 
 .header__logo-img {
@@ -468,6 +472,12 @@ body {
 .header__nav {
   gap: 3rem;
   display: flex;
+}
+
+@media only screen and (width <= 37.5em) {
+  .header__nav {
+    grid-column: 3 / -1;
+  }
 }
 
 .bookmark {

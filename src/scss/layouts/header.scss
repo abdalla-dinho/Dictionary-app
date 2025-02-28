@@ -17,20 +17,37 @@
        }
     }
 
-    &__logo-img {
-        
-        width: 15rem;
+    &__input {
+        @include respond(phone) {
+
+         grid-row: 2;
+         grid-column: 2/3;
+        //  margin-right: 5rem;
+        }
+    }
+
+    &__logo {
+     
+        &-img {
+               width: 15rem;
 
 
         @include respond (tab-port) {
             width: 8rem;
         }
+        }
     }
+
+  
 
     &__nav {
         display: flex;
         gap: 3rem;
         // margin-top: 4rem;
+
+        @include respond(phone) {
+            grid-column: 3/-1;
+        }
 
     }
 

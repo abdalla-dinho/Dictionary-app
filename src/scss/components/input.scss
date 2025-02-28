@@ -10,7 +10,7 @@
 
      @include respond(tab-port) {
         width: 100%;
-        padding: 0.3rem 0.4rem 0.3rem 2rem;
+        padding: 0.6rem 1rem 0.6rem 2rem;
      }
 
 
@@ -24,14 +24,15 @@
         height: 100%;
         border: none;
         outline: none;
+        
 
         &::placeholder {
             font-family: $primary-font;
             color: $color-grey-dark-1;
-            font-size: 1.5rem;
+            font-size: 1.6rem;
 
             @include respond(tab-port) {
-                font-size: 1.1rem;
+                font-size: 1.6rem;
             }
         }
 
