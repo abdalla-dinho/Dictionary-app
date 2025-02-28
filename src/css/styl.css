@@ -221,13 +221,13 @@ body {
   padding: 1.4rem 2rem;
   outline: none;
   border: none;
+  font-size: 16px;
 }
 .result__input-group-input--1:focus {
   outline: 3px solid #f3dfdf;
 }
 .result__input-group-input--1::placeholder {
   font-family: "Atkinson Hyperlegible Mono", sans-serif;
-  font-size: 1.3rem;
 }
 .result__input-group-btn--1 {
   width: 50%;
